@@ -1,10 +1,1 @@
-# ApiTesingStudentInfo
-Postman: 
-POST Method: Create new student with data validation 
-GET Method: Get student data with data validation 
-PUT Methode: Update student data with data validation 
-POST Method: Create new student Address with data validation 
-POST Method: Create new student Address with data validation 
-DELETE Methode: Delete student info
-
-Newman: Generate html report
+![image](https://user-images.githubusercontent.com/106991718/189543558-abb3959f-2144-4ab4-a778-77f03a6039b3.png)
